@@ -1,51 +1,78 @@
-# Olá, eu sou Ryan Gonçalves
-<a href="https://www.linkedin.com/in/ryangoncalves/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🛡️ Ryan Gonçalves | SOC Analyst Tier 1 in Training
 
-Sou um recém-formado com profundo interesse em tecnologia e dedicação à resolução de problemas complexos.
-
-## Objetivo
-Minha trajetória na ciência da computação me levou a desenvolver uma paixão por cibersegurança. Atualmente, estou focado em transicionar para esta área, especificamente com o objetivo de ingressar em um Security Operations Center (SOC) como Analista de Nível 1 (Tier 1).
-
-## Habilidades
-
-| Habilidade | Projeto Associado |
-|-----------------------------------------------|----------------------------|
-| Implementação de SIEM e Análise de Logs | <a href="https://google.com">Laboratório de Detecção</a> |
-| Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">Laboratório de Detecção</a> |
-| Automação de Segurança com Shuffle SOAR | Laboratório de Automação de SOC |
-| Planejamento e Execução de Resposta a Incidentes | Laboratório de Automação de SOC |
-| Gestão de Casos com TheHive | Laboratório de Automação de SOC |
-| Scripting e Automação para Mitigação de Ameaças | Laboratório de Automação de SOC |
-
-## Ferramentas
-
-### Rede (Network)
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/ryangoncalves/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Opportunities-green?style=for-the-badge" />
 </div>
 
-### Endpoint
+### 👨‍💻 Sobre Mim
+Sou um profissional de tecnologia focado em **Defesa Cibernética** e **Resposta a Incidentes**. Minha trajetória combina o rigor da segurança com a experiência em desenvolvimento fullstack, permitindo uma visão holística sobre proteção de sistemas e análise de vulnerabilidades.
+
+---
+
+## 🚀 Projetos de Destaque
+
+### 🔐 Segurança & Redes
+| Laboratório | Descrição Técnica | Badge |
+| :--- | :--- | :--- |
+| **[Análise HTTP vs HTTPS](https://github.com/Ryan-OSudo/HTTP-vs-HTTPS-Lab)** | Investigação de tráfego e exposição de dados via Wireshark. | ![Security](https://img.shields.io/badge/Network-Security-red) |
+| **[Detection Lab](https://github.com/Ryan-OSudo)** | Implementação de SIEM/Sentinel para monitoramento de ataques. | ![SIEM](https://img.shields.io/badge/SOC-Detection-blue) |
+
+### 🏗️ Fullstack Development (Delivery System)
+> *Desenvolvimento de um ecossistema completo para gestão de pedidos, aplicando segurança e arquitetura escalável.*
+
+* **[Backend Service](https://github.com/Ryan-OSudo/Restaurante-BackEnd):** API robusta desenvolvida em **Java/Spring Boot** com foco em persistência de dados e regras de negócio.
+* **[Frontend Interface](https://github.com/Ryan-OSudo/Restaurante-FrontEnd):** Aplicação interativa em **Angular 18**, focada em experiência do usuário e consumo de API REST.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### **Segurança & Monitoramento**
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### **Desenvolvimento & Infra**
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Certificações
-### 🎯 Em busca de certificação (In Progress)
-<div>
-<img src="https://img.shields.io/badge/-CCNA-00599C?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+---
+
+## 🎓 Certificações & Educação
+
+### **🎯 Em Busca de Certificação**
+* **CCNA** (Cisco Certified Network Associate)
+* **CompTIA Security+**
+
+---
+
+## 🔬 Deep Dive: Network Traffic Analysis
+No meu laboratório de análise de tráfego, utilizei filtros avançados como `http.request.method == "POST"` para demonstrar a fragilidade do protocolo HTTP.
+
+> [!CAUTION]
+> **Vulnerabilidade Identificada:** Durante a análise, capturei credenciais em texto claro (plaintext), o que reforça a importância da implementação de **TLS/SSL** em aplicações web modernas.
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-OSudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-OSudo&layout=compact&theme=tokyonight"/>
 </div>
 
-## Projetos
-- Laboratório de Detecção (Detection Lab)
-- Projeto de Automação de SOC
+---
+
+<div align="center">
+  <em>"A curiosidade é o primeiro passo para a detecção."</em>
+</div>
