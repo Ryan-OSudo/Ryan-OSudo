@@ -1,12 +1,12 @@
 # 🛡️ Ryan Gonçalves | SOC Analyst Tier 1 in Training
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ryangoncalves/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Seeking_Opportunities-green?style=for-the-badge" />
-</div>
+</p>
 
 ### 👨‍💻 Sobre Mim
 Sou um profissional de tecnologia focado em **Defesa Cibernética** e **Resposta a Incidentes**. Minha trajetória combina o rigor da segurança com a experiência em desenvolvimento fullstack, permitindo uma visão holística sobre proteção de sistemas e análise de vulnerabilidades.
@@ -24,28 +24,24 @@ Sou um profissional de tecnologia focado em **Defesa Cibernética** e **Resposta
 ### 🏗️ Fullstack Development (Delivery System)
 > *Desenvolvimento de um ecossistema completo para gestão de pedidos, aplicando segurança e arquitetura escalável.*
 
-* **[Backend Service](https://github.com/Ryan-OSudo/Restaurante-BackEnd):** API robusta desenvolvida em **Java/Spring Boot** com foco em persistência de dados e regras de negócio.
-* **[Frontend Interface](https://github.com/Ryan-OSudo/Restaurante-FrontEnd):** Aplicação interativa em **Angular 18**, focada em experiência do usuário e consumo de API REST.
+* **[Backend Service](https://github.com/Ryan-OSudo/Restaurante-BackEnd):** API robusta desenvolvida em **Java/Spring Boot** com foco em persistência de dados.
+* **[Frontend Interface](https://github.com/Ryan-OSudo/Restaurante-FrontEnd):** Aplicação interativa em **Angular 18**, focada em UX e consumo de API REST.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ### **Segurança & Monitoramento**
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
 
 ### **Desenvolvimento & Infra**
-<div>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+![Java](https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -65,14 +61,6 @@ No meu laboratório de análise de tráfego, utilizei filtros avançados como `h
 
 ---
 
-## 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-OSudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-OSudo&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-<div align="center">
+<p align="center">
   <em>"A curiosidade é o primeiro passo para a detecção."</em>
-</div>
+</p>
